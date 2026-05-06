@@ -1,8 +1,6 @@
 <div align="center">
 
-# Arrow-Oliver
-
-## 👋
+# Arrow-Oliver 👋
 
 Better Call Mine !
 
