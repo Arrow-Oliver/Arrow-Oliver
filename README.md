@@ -3,8 +3,7 @@
 
 ## 👋
 
-Currently based in Shanghai.  
-Working with `Java` and `C#`.
+Better Call Mine !
 
 <p>
   <a href="https://www.holatto.com/">
@@ -20,10 +19,3 @@ Working with `Java` and `C#`.
   <img height="165" src="https://arrow-oliver-stats.vercel.app/api?username=Arrow-Oliver&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img height="165" src="https://arrow-oliver-stats.vercel.app/api/top-langs/?username=Arrow-Oliver&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
-
-<br />
-
-> Better Call Mine !
-
-</div>
-
