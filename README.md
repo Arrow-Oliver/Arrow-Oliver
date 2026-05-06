@@ -1,12 +1,29 @@
-## Arrow-Oliver
+<div align="center">
+# Arrow-Oliver
 
-写代码，做产品，解决问题。  
-关注长期价值，也珍惜每一次细小但确定的改进。
+## 👋
 
-![GitHub Stats](https://arrow-oliver-stats.vercel.app/api?username=Arrow-Oliver&show_icons=true&theme=radical&hide_border=true&count_private=true)
+Currently based in Shanghai.  
+Working with `Java` and `C#`.
 
-### Contact me
+<p>
+  <a href="https://www.holatto.com/">
+    <img src="https://img.shields.io/badge/Blog-holatto.com-1f2937?style=flat-square" alt="Blog" />
+  </a>
+  <img src="https://img.shields.io/badge/Based%20in-Shanghai-374151?style=flat-square" alt="Based in Shanghai" />
+  <img src="https://img.shields.io/badge/Working%20with-Java%20%7C%20C%23-4b5563?style=flat-square" alt="Working with Java and C#" />
+</p>
+<br />
+<br />
 
-- Blog: https://holatto.com/
+<p>
+  <img height="165" src="https://arrow-oliver-stats.vercel.app/api?username=Arrow-Oliver&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://arrow-oliver-stats.vercel.app/api/top-langs/?username=Arrow-Oliver&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</p>
 
-> Build quietly. Improve consistently.
+<br />
+
+> Better Call Mine !
+
+</div>
+
